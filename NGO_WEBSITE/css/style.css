@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-size: cover;
+  background-position: center;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
